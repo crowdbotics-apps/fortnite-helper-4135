@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT fortnite_helper_4135.wsgi:application
